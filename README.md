@@ -7,7 +7,7 @@ Fresh Tomatoes brings up a list of favorite movies from entertainment_center.py 
 
 ## Install
 	1) Copy the complete repo
-	2) run fresh_tomatoes.py 
+	2) run entertainment_center.py 
 	3) HTML will open with the list of movies
 
 ## Files
